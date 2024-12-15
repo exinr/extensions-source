@@ -1,0 +1,9 @@
+ext {
+    extName = 'RawKuro'
+    extClass = '.RawKuro'
+    themePkg = 'liliana'
+    baseUrl = 'https://rawkuro.net'
+    overrideVersionCode = 9
+}
+
+apply from: "$rootDir/common.gradle"
